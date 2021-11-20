@@ -36,7 +36,7 @@ namespace Demo01.AppWebMvc.Controllers
                                 responseBody = objReader.ReadToEnd();
                                 
                                 // Do something with responseBody
-                                //Console.WriteLine(responseBody);
+                                Console.WriteLine(responseBody);
                             }
                         }
                         
