@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 1Hola
 2Yaaaa
 3Veeee
 4Siiii
 5Hola
+=======
+1HolaCHOgit clone https://github.com/machacode/Demo02.git
+2346+51316513
+Hola cush cush XD
+>>>>>>> 7c35f876ceaab07e56708a26e04c8b498af557cc
